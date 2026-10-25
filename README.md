@@ -1,6 +1,6 @@
 # TokoKita - Web E-Commerce dengan Pembayaran Online
 
-Tugas Rekayasa Perangkat Lunak - Kelompok 6, Teknik Informatika, Universitas Jabal Ghafur.
+Tugas Rekayasa Perangkat Lunak - Kelompok Transistor, Teknik Informatika, Universitas Jabal Ghafur.
 
 | Nama | NPM |
 |---|---|

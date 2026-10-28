@@ -1,4 +1,4 @@
-# TokoKita - Web E-Commerce dengan Pembayaran Online
+# TokoKita - Web POS dengan Pembayaran Online
 
 Tugas Rekayasa Perangkat Lunak - Kelompok Transistor, Teknik Informatika, Universitas Jabal Ghafur.
 
